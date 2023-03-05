@@ -1,0 +1,35 @@
+
+header{
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 25px
+}
+header ul{
+    display: flex;
+    margin: 0;
+}
+header li{
+    list-style: none;
+}
+header a{
+    text-decoration: none;
+    color: #000;
+    font-family: sans-serif;
+    font-weight: bold;
+    padding: 10px 20px;
+    font-size: large;
+}
+
+ul
+{
+font-family:sans-serif ;
+font-size: 22px;
+line-height: 1.2;
+}
+
+li
+{
+font-family:sans-serif ;
+font-size: 22px;
+line-height: 1.2;
+}
